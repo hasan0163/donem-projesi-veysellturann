@@ -73,7 +73,7 @@
             this.btnkullanicigiris.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnkullanicigiris.Image = ((System.Drawing.Image)(resources.GetObject("btnkullanicigiris.Image")));
             this.btnkullanicigiris.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnkullanicigiris.Location = new System.Drawing.Point(57, 129);
+            this.btnkullanicigiris.Location = new System.Drawing.Point(57, 130);
             this.btnkullanicigiris.Name = "btnkullanicigiris";
             this.btnkullanicigiris.Size = new System.Drawing.Size(175, 45);
             this.btnkullanicigiris.TabIndex = 2;

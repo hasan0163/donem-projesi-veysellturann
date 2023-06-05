@@ -49,7 +49,7 @@
             this.btnprev.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnprev.Image = ((System.Drawing.Image)(resources.GetObject("btnprev.Image")));
             this.btnprev.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.btnprev.Location = new System.Drawing.Point(58, 192);
+            this.btnprev.Location = new System.Drawing.Point(58, 193);
             this.btnprev.Name = "btnprev";
             this.btnprev.Size = new System.Drawing.Size(175, 45);
             this.btnprev.TabIndex = 3;

@@ -123,7 +123,7 @@
             this.btnkullaniciekle.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnkullaniciekle.Image = ((System.Drawing.Image)(resources.GetObject("btnkullaniciekle.Image")));
             this.btnkullaniciekle.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnkullaniciekle.Location = new System.Drawing.Point(12, 301);
+            this.btnkullaniciekle.Location = new System.Drawing.Point(10, 301);
             this.btnkullaniciekle.Name = "btnkullaniciekle";
             this.btnkullaniciekle.Size = new System.Drawing.Size(149, 40);
             this.btnkullaniciekle.TabIndex = 35;
