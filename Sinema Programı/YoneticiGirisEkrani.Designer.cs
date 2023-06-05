@@ -103,7 +103,7 @@
             // txtkullaniciadi
             // 
             this.txtkullaniciadi.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtkullaniciadi.Location = new System.Drawing.Point(58, 69);
+            this.txtkullaniciadi.Location = new System.Drawing.Point(59, 69);
             this.txtkullaniciadi.Multiline = true;
             this.txtkullaniciadi.Name = "txtkullaniciadi";
             this.txtkullaniciadi.Size = new System.Drawing.Size(175, 25);

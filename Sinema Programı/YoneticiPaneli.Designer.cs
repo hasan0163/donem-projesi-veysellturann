@@ -109,7 +109,7 @@
             this.kayitlikullanicilar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.kayitlikullanicilar.FormattingEnabled = true;
             this.kayitlikullanicilar.ItemHeight = 20;
-            this.kayitlikullanicilar.Location = new System.Drawing.Point(51, 34);
+            this.kayitlikullanicilar.Location = new System.Drawing.Point(52, 34);
             this.kayitlikullanicilar.Name = "kayitlikullanicilar";
             this.kayitlikullanicilar.Size = new System.Drawing.Size(226, 144);
             this.kayitlikullanicilar.TabIndex = 36;
