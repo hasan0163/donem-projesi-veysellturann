@@ -91,7 +91,7 @@
             // txtparola
             // 
             this.txtparola.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtparola.Location = new System.Drawing.Point(58, 107);
+            this.txtparola.Location = new System.Drawing.Point(59, 107);
             this.txtparola.Multiline = true;
             this.txtparola.Name = "txtparola";
             this.txtparola.PasswordChar = '*';

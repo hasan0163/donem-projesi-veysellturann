@@ -500,7 +500,7 @@
             this.koltuk23.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.koltuk23.Image = ((System.Drawing.Image)(resources.GetObject("koltuk23.Image")));
             this.koltuk23.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.koltuk23.Location = new System.Drawing.Point(178, 187);
+            this.koltuk23.Location = new System.Drawing.Point(178, 188);
             this.koltuk23.Name = "koltuk23";
             this.koltuk23.Size = new System.Drawing.Size(160, 42);
             this.koltuk23.TabIndex = 77;

@@ -15,7 +15,6 @@ namespace Sinema_Programı
         {   
 
 
-
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new AnaEkran ());

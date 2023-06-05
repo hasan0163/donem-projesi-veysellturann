@@ -61,7 +61,7 @@
             this.btnkullanici.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnkullanici.Image = ((System.Drawing.Image)(resources.GetObject("btnkullanici.Image")));
             this.btnkullanici.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnkullanici.Location = new System.Drawing.Point(187, 62);
+            this.btnkullanici.Location = new System.Drawing.Point(187, 63);
             this.btnkullanici.Name = "btnkullanici";
             this.btnkullanici.Size = new System.Drawing.Size(350, 85);
             this.btnkullanici.TabIndex = 1;
